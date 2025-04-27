@@ -78,19 +78,19 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
 
 # 🎖 Honors and Awards
-- *2024.12* National Scholarship for Postgraduate Students | *Awarded for achieving the top academic performance in the program*
-- *2024.12* Xu Shoubo Academician Scholarship | *This award is granted to only one recipient in the SEM of BJTU*
-- *2022.06* College Student Innovation and Entrepreneurship Training Program | *National Level*
-- *2021.10* National Undergraduate Mathematical Contest in Modeling of China | *First Prize of Shandong Province*
-- *2021.04* National Undergraduate Mathematical Contest in Modeling of USA | *Meritorious Winner*
+- *2024.12* National Scholarship for Postgraduate Students
+- *2024.12* Xu Shoubo Academician Scholarship
+- *2022.06* National-Level College Student Innovation and Entrepreneurship Training Program
+- *2021.10* Provincial First Prize in National Undergraduate Mathematical Contest in Modeling of China
+- *2021.04* Meritorious Winner of National Undergraduate Mathematical Contest in Modeling of USA
 
 # 📖 Educations
-- *2025.09 - now*, Department of Information Management, Peking University.
+- *2025.09 - present*, Department of Information Management, Peking University.
 - *2022.09 - 2025.06*, Department of Information Management, Beijing Jiaotong University.
 - *2018.09 - 2022.06*, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
 # 💬 Invited Talks
-- none
+- *Open to academic and industry speaking opportunities.*
 
 # 💻 Internships
-- none
+- *Seeking opportunities for academic and industrial internships to apply and expand my expertise in knowledge graphs, hypergraphs, NLP, and LLMs.*
