@@ -24,7 +24,7 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 
 # 🔥 News
-- *2025.03*: &nbsp; I joined the doctoral program of the Department of Information Management at Peking University.
+- *2025.03*: &nbsp;🎉 I joined the doctoral program of the Department of Information Management at Peking University.
 - *2024.12*: &nbsp;🎉 The paper submitted to Journal of Retailing and Consumer Services has been accepted.
 - *2024.11*: &nbsp;🎉 The paper submitted to Decision Support Systems has been published.
 - *2024.05*: &nbsp;🎉 The paper submitted to Artificial Intelligence in Medicine has been published.
