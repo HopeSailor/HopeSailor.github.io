@@ -19,11 +19,11 @@ redirect_from:
 
 I am currently a **Ph.D. student** in the Department of Information Management at [**Peking University (北京大学信息管理系)**](http://www.im.pku.edu.cn/). Previously, I obtained my **Master's degree in Management** from **Beijing Jiaotong University (北京交通大学)**, advised by Professor [**Runtong Zhang (张润彤)**](http://sem.bjtu.edu.cn/show-594-47.html). During my master's studies, I participated in several **national research projects**, including those funded by the **National Natural Science Foundation of China and National Social Science Foundation of China**.
 
-My research interest includes **medical informatics**, **collaborator recommendation**, and **cross-cultural digital narratives**. I have published several papers <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) in high-impact journals such as **Decision Support Systems**, **Artificial Intelligence in Medicine**, and **Journal of Retailing and Consumer Services**. I also served as a peer reviewer for journals like **Expert Systems with Applications** and **The Journal of Supercomputing**.
+My research interest includes **medical informatics**, **collaborator recommendation**, and **cross-cultural digital narratives**. I have published several papers <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in high-impact journals such as **Decision Support Systems**, **Artificial Intelligence in Medicine**, and **Journal of Retailing and Consumer Services**. I also served as a peer reviewer for journals like **Expert Systems with Applications** and **The Journal of Supercomputing**.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
