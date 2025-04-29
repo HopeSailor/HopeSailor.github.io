@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Ph.D. student** in the **Department of Information Management, Peking University**. Previously, I obtained my **Master's degree** from the **Department of Information Management, Beijing Jiaotong University**, advised by Professor [**Runtong Zhang (张润彤)**](http://sem.bjtu.edu.cn/show-594-47.html). During my master's studies, I participated in several research projects, including those funded by the **National Natural Science Foundation of China and National Social Science Foundation of China**.
+I am currently a **Ph.D. student** in the **Department of Information Management, Peking University**, under the supervision of [**Professor Shijuan Li (李世娟)**](http://www.im.pku.edu.cn/szll/tsgxjys/zrlsj/index.htm). I obtained my **Master’s degree** from the **Department of Information Management, Beijing Jiaotong University**, advised by [**Professor Runtong Zhang (张润彤)**](http://sem.bjtu.edu.cn/show-594-47.html). During my master’s studies, I participated in several research projects, including those funded by the **National Natural Science Foundation of China** and the **National Social Science Foundation of China**. Prior to that, I completed my **Bachelor’s degree** through a joint program between **Rochester Institute of Technology (RIT)** and **Beijing Jiaotong University**.
 
-My research interest includes **medical informatics**, **collaborator recommendation**, and **cross-cultural digital narratives**. I have published 3 research papers <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-6%20citations-9cf?logo=Google%20Scholar"></a> in top journals such as **Decision Support Systems**, **Artificial Intelligence in Medicine**, and **Journal of Retailing and Consumer Services**. I also served as a peer reviewer for journals like **Expert Systems with Applications** and **The Journal of Supercomputing**.
+My research interest includes **medical informatics**, **collaborator recommendation**, and **cross-cultural digital narratives**. So far, I have published 3 research papers <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-6%20citations-9cf?logo=Google%20Scholar"></a> in top journals including **Decision Support Systems**, **Artificial Intelligence in Medicine**, and **Journal of Retailing and Consumer Services**. I also served as a peer reviewer for journals like **Expert Systems with Applications** and **The Journal of Supercomputing**.
 
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉 I joined the doctoral program of the Department of Information Management at Peking University.
+- *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students (¥20,000) and the Xu Shoubo Academician Scholarship (¥25,000).
 - *2024.12*: &nbsp;🎉 The paper submitted to the Journal of Retailing and Consumer Services has been accepted.
 - *2024.11*: &nbsp;🎉 The paper submitted to the Decision Support Systems has been published.
 - *2024.05*: &nbsp;🎉 The paper submitted to the Artificial Intelligence in Medicine has been published.
