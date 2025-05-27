@@ -23,7 +23,7 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship (¥20,000, ~Top 5 at BJTU), the highest honor at Beijing Jiaotong University.
+- *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship (¥10,000, ~Top 5 at BJTU), the highest honor at Beijing Jiaotong University.
 - *2025.03*: &nbsp;🎉 I joined the doctoral program of the Department of Information Management at Peking University.
 - *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship (¥25,000, ~Top 1 in the SEM, BJTU).
 - *2024.12*: &nbsp;🎉 The paper submitted to the Journal of Retailing and Consumer Services has been accepted.
@@ -81,7 +81,7 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05* Zhixing Scholarship (formerly the President's Scholarship)
+- *2025.05* Zhixing Scholarship (formerly the President's Scholarship), the highest honor at Beijing Jiaotong University.
 - *2024.12* Xu Shoubo Academician Scholarship
 - *2024.12* National Scholarship for Postgraduate Students
 - *2022.06* National-Level College Student Innovation and Entrepreneurship Training Program
