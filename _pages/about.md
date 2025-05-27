@@ -81,7 +81,7 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05* Zhixing Scholarship (formerly the President's Scholarship), the highest honor at Beijing Jiaotong University.
+- *2025.05* Zhixing Scholarship (formerly the President's Scholarship).
 - *2024.12* Xu Shoubo Academician Scholarship
 - *2024.12* National Scholarship for Postgraduate Students
 - *2022.06* National-Level College Student Innovation and Entrepreneurship Training Program
