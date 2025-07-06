@@ -36,7 +36,11 @@ My research interest includes **medical informatics**, **collaborator recommenda
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSS</div><img src='images/DSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Journal Article**
+
 [What can we learn from multimorbidity? A deep dive from its risk patterns to the corresponding patient profiles](https://doi.org/10.1016/j.dss.2024.114313)
+
+*Decision Support Systems*
 
 **Xiaochen Wang**, Runtong Zhang, Xiaomin Zhu
 </div>
@@ -45,7 +49,11 @@ My research interest includes **medical informatics**, **collaborator recommenda
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIIM</div><img src='images/AIIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Journal Article**
+
 [Medical knowledge graph completion via fusion of entity description and type information](https://doi.org/10.1016/j.artmed.2024.102848)
+
+*Artificial Inteligence in Medicine*
 
 **Xiaochen Wang**, Runtong Zhang, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
@@ -54,7 +62,11 @@ My research interest includes **medical informatics**, **collaborator recommenda
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JRCS</div><img src='images/JRCS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Journal Article**
+
 [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199)
+
+*Journal of Retailing and Consumer Services*
 
 Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
