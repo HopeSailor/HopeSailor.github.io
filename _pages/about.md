@@ -39,12 +39,6 @@ My research interest includes **medical informatics**, **collaborator recommenda
 [What can we learn from multimorbidity? A deep dive from its risk patterns to the corresponding patient profiles](https://doi.org/10.1016/j.dss.2024.114313)
 
 **Xiaochen Wang**, Runtong Zhang, Xiaomin Zhu
-
-**Highlights**
-- Propose a progressive three-stage approach to decipher multimorbidity.
-- Define a multimorbidity risk network that surpasses traditional comorbidity indices.
-- Use network techniques to identify patterns in the multimorbidity risk network.
-- Apply machine learning to select patient profiles under diverse patterns.
 </div>
 </div>
 
@@ -54,13 +48,6 @@ My research interest includes **medical informatics**, **collaborator recommenda
 [Medical knowledge graph completion via fusion of entity description and type information](https://doi.org/10.1016/j.artmed.2024.102848)
 
 **Xiaochen Wang**, Runtong Zhang, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
-
-**Highlights**
-- A novel fusion framework is introduced for medical knowledge graph completion.
-- Our methodology incorporates a type-sensitive learning strategy that ensure higher precision.
-- We improve link prediction with an ontology language model and if-else logic.
-- Research shows that the medical knowledge graph is more sensitive to semantic information.
-- Our method surpasses baselines in WordNet and MedicalKG, highlighting its applicability.
 </div>
 </div>
 
@@ -70,13 +57,6 @@ My research interest includes **medical informatics**, **collaborator recommenda
 [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199)
 
 Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
-
-**Highlights**
-- Social proof can influence consumer impulse buying inspiration.
-- The quantity of social proof (number of likes and comments) has a positive impact on consumer impulse buying.
-- The attraction of products in social proof quality has a negative effect on consumer impulse buying.
-- The attraction of media in social proof quality has a positive effect on consumer impulse buying.
-- Product type moderates the effect of social proof on consumer impulse buying.
 </div>
 </div>
 
