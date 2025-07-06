@@ -81,9 +81,9 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 - *2021.04* Meritorious Winner of National Undergraduate Mathematical Contest in Modeling of USA
 
 # 📖 Educations
-- *2025.09 - present*, Department of Information Management, Peking University.
-- *2022.09 - 2025.06*, Department of Information Management, Beijing Jiaotong University.
-- *2018.09 - 2022.06*, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
+- *2025.09 - present*, Ph.D, Department of Information Management, Peking University.
+- *2022.09 - 2025.06*, Master, Department of Information Management, Beijing Jiaotong University.
+- *2018.09 - 2022.06*, Bachelor, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
 # 💬 Invited Talks
 - *Open to academic and industry speaking opportunities.*
