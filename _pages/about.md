@@ -73,12 +73,9 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
 
 # 🎖 Honors and Awards
-- *2025.05* Zhixing Scholarship (formerly the President's Scholarship).
+- *2025.05* Zhixing Scholarship (formerly the President's Scholarship of BJTU).
 - *2024.12* Xu Shoubo Academician Scholarship
 - *2024.12* National Scholarship for Postgraduate Students
-- *2022.06* National-Level College Student Innovation and Entrepreneurship Training Program
-- *2021.10* Provincial First Prize in National Undergraduate Mathematical Contest in Modeling of China
-- *2021.04* Meritorious Winner of National Undergraduate Mathematical Contest in Modeling of USA
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D, Department of Information Management, Peking University.
