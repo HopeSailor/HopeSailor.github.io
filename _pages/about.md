@@ -23,11 +23,11 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship (¥10,000, ~Top 5 at BJTU), the highest honor at Beijing Jiaotong University.
+- *2025.05*: &nbsp;🎉 The paper submitted to the Journal of Retailing and Consumer Services has been published.
+- *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship, the highest honor at Beijing Jiaotong University.
 - *2025.03*: &nbsp;🎉 I joined the doctoral program of the Department of Information Management at Peking University.
-- *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship (¥25,000, ~Top 1 in the SEM, BJTU).
-- *2024.12*: &nbsp;🎉 The paper submitted to the Journal of Retailing and Consumer Services has been accepted.
-- *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students (¥20,000, ~Top 2% in the SEM, BJTU).
+- *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship.
+- *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students.
 - *2024.11*: &nbsp;🎉 The paper submitted to the Decision Support Systems has been published.
 - *2024.05*: &nbsp;🎉 The paper submitted to the Artificial Intelligence in Medicine has been published.
 
@@ -72,10 +72,14 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
 </div>
 
+**Working Paper**
+- Scientific collaborator recommendation (completed and currently under submission at *Journal of the Association for Information Science and Technology*)
+- Cross-cultural digital narrative (in progress)
+
 # 🎖 Honors and Awards
-- *2025.05* Zhixing Scholarship (formerly the President's Scholarship of BJTU).
-- *2024.12* Xu Shoubo Academician Scholarship
-- *2024.12* National Scholarship for Postgraduate Students
+- *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
+- *2024.12* Xu Shoubo Academician Scholarship (¥25,000, ~**Top 1** in the SEM, BJTU)
+- *2024.12* National Scholarship for Postgraduate Students (¥20,000, ~**Top 2%** in the SEM, BJTU)
 
 # 📖 Educations
 - *2025.09 - present*, Ph.D, Department of Information Management, Peking University.
