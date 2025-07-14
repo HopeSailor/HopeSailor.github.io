@@ -72,7 +72,7 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 </div>
 </div>
 
-**Working Paper**
+## Working Paper
 - Scientific collaborator recommendation (completed and currently under submission at *Journal of the Association for Information Science and Technology*)
 - Cross-cultural digital narrative (in progress)
 
