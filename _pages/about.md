@@ -82,7 +82,7 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
 - *2024.12* National Scholarship for Postgraduate Students (¥20,000, ~**Top 2%** in the SEM, BJTU)
 
 # 📖 Educations
-- *2025.09 - present*, Ph.D, Department of Information Management, Peking University.
+- *2025.09 - present*, Ph.D. Student, Department of Information Management, Peking University.
 - *2022.09 - 2025.06*, Master, Department of Information Management, Beijing Jiaotong University.
 - *2018.09 - 2022.06*, Bachelor, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
