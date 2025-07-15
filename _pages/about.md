@@ -46,7 +46,7 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 *Decision Support Systems*
 
-**Xiaochen Wang**, Runtong Zhang †, Xiaomin Zhu
+**Xiaochen Wang**, Runtong Zhang<sup>†</sup>, Xiaomin Zhu
 </div>
 </div>
 
@@ -59,7 +59,7 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 *Artificial Inteligence in Medicine*
 
-**Xiaochen Wang**, Runtong Zhang †, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
+**Xiaochen Wang**, Runtong Zhang<sup>†</sup>, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
 </div>
 
@@ -72,13 +72,13 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 *Journal of Retailing and Consumer Services*
 
-Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang †
+Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>†</sup>
 </div>
 </div>
 
 ## 🔹 Working Papers
 
-- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li †. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, Under review.
+- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, Under review.
 
 # 🎖 Honors and Awards
 - *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
