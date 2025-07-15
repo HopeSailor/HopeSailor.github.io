@@ -42,7 +42,7 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 *Decision Support Systems*
 
-**Xiaochen Wang**, Runtong Zhang, Xiaomin Zhu
+**Xiaochen Wang**, Runtong Zhang*, Xiaomin Zhu
 </div>
 </div>
 
@@ -55,7 +55,7 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 *Artificial Inteligence in Medicine*
 
-**Xiaochen Wang**, Runtong Zhang, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
+**Xiaochen Wang**, Runtong Zhang*, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
 </div>
 
@@ -68,12 +68,12 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 *Journal of Retailing and Consumer Services*
 
-Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang
+Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang*
 </div>
 </div>
 
 ## Working Paper
-- Scientific collaborator recommendation (completed and currently under submission at *Journal of the Association for Information Science and Technology*)
+- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li*. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, Under review.
 - Cross-cultural digital narrative (in progress)
 
 # 🎖 Honors and Awards
