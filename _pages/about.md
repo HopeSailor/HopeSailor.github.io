@@ -35,6 +35,8 @@ My research interest includes **medical informatics**, **collaborator recommenda
 
 > † indicates corresponding author; ‡ indicates equal contribution.
 
+## 🔹 Published Papers
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSS</div><img src='images/DSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,9 +76,9 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang †
 </div>
 </div>
 
-## Working Paper
+## 🔹 Working Papers
+
 - **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li †. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, Under review.
-- Cross-cultural digital narrative (in progress)
 
 # 🎖 Honors and Awards
 - *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
