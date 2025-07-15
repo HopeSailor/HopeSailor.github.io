@@ -1,4 +1,4 @@
----
+<img width="1111" height="1186" alt="image" src="https://github.com/user-attachments/assets/6e54e0a3-18b8-4657-b702-8c0525a91d5b" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -78,7 +78,10 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>
 
 ## 🔹 Working Papers
 
-- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, Under review.
+- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, under review.
+- Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale Dilated Attention Convolutional Neural Network for Remaining Useful Life Prediction of Rolling Bearings in Noisy Environments. *Measurement Science and Technology*, under submission.
+- Qianyao Zhang, Runtong Zhang<sup>†</sup>, Weiguang Ma, Wensheng Huang, **Xiaochen Wang**, and Yang Liu. Mapping the Multimorbidity Landscape: Integrating Health Ecological Model and Dynamic Heterogeneous Network Analysis. *iScience*, under review.
+- Butian Zhao<sup>†</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. Doctor recommendation in online health communities via coordination of deep learning and reinforcement learning: A phased hybrid approach. *Technology in Society*, under submission.
 
 # 🎖 Honors and Awards
 - *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
