@@ -79,8 +79,8 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>
 ## 🔹 Working Papers
 
 - **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>. Scientific collaborator recommendation via hypergraph embedding. *Journal of the Association for Information Science and Technology*, with editor.
-- Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale Dilated Attention Convolutional Neural Network for Remaining Useful Life Prediction of Rolling Bearings in Noisy Environments. *Measurement Science and Technology*, with editor.
-- Qianyao Zhang, Runtong Zhang<sup>†</sup>, Weiguang Ma, Wensheng Huang, **Xiaochen Wang**, and Yang Liu. Mapping the Multimorbidity Landscape: Integrating Health Ecological Model and Dynamic Heterogeneous Network Analysis. *iScience*, under review.
+- Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, with editor.
+- Qianyao Zhang, Runtong Zhang<sup>†</sup>, Weiguang Ma, Wensheng Huang, **Xiaochen Wang**, and Yang Liu. Mapping the multimorbidity landscape: Integrating health ecological model and dynamic heterogeneous network analysis. *iScience*, under review.
 - Butian Zhao<sup>†</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. Doctor recommendation in online health communities via coordination of deep learning and reinforcement learning: A phased hybrid approach. *Technology in Society*, under submission.
 
 # 🎖 Honors and Awards
