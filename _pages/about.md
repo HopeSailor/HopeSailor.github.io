@@ -77,7 +77,7 @@ Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>
 </div>
 
 ## 🔹 Working Papers
-- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>. Scientific collaborator recommendation via hypergraph embedding. *Information Processing & Management*, under review.
+- **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>. Scientific collaborator recommendation via hypergraph embedding. *Information Processing & Management*, under revision.
 - Wensheng Huang, Runtong Zhang<sup>†</sup>, **Xiaochen Wang**, Qianyao Zhang, Xiaomin Zhu. Navigating the cross-platform maze: How platform content and consumer cognition impact consumer purchase intention in live streaming commerce. *Behaviour & Information Technology*, under revision.
 - Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, under review.
 - Qianyao Zhang, Runtong Zhang<sup>†</sup>, Weiguang Ma, Wensheng Huang, **Xiaochen Wang**, Yang Liu. Mapping the multimorbidity landscape: Integrating health ecological model and dynamic heterogeneous network analysis. *iScience*, under revision.
