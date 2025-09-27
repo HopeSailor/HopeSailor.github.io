@@ -19,10 +19,11 @@ redirect_from:
 
 I am currently a **Ph.D. student** in the **Department of Information Management, Peking University**, under the supervision of [**Professor Shijuan Li (李世娟)**](http://www.im.pku.edu.cn/szll/tsgxjys/zrlsj/index.htm). I obtained my **Master’s degree** from the **Department of Information Management, Beijing Jiaotong University**, advised by [**Professor Runtong Zhang (张润彤)**](http://sem.bjtu.edu.cn/show-594-47.html). Prior to that, I completed my **Bachelor’s degree** through a joint program between **Rochester Institute of Technology** and **Beijing Jiaotong University**.
 
-My research interest includes **information science**, **medical informatics**, **human-centered recommendation**, and **digital media**. So far, I have published 3 research papers <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-27%20citations-9cf?logo=Google%20Scholar"></a> in top journals including **Decision Support Systems**, **Artificial Intelligence in Medicine**, and **Journal of Retailing and Consumer Services**. I also served as a peer reviewer for journals like **Expert Systems with Applications** and **The Journal of Supercomputing**.
+My research interest includes **information science**, **medical informatics**, **human-centered recommendation**, and **digital media**. So far, I have published 3 research papers <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-27%20citations-9cf?logo=Google%20Scholar"></a> in top journals including **Decision Support Systems**, **Information Processing & Management**, and **Artificial Intelligence in Medicine**. I also served as a peer reviewer for journals like **Expert Systems with Applications** and **The Journal of Supercomputing**.
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 The paper submitted to the Information Processing & Management has been accepted.
 - *2025.05*: &nbsp;🎉 The paper submitted to the Journal of Retailing and Consumer Services has been published.
 - *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship, the highest honor at Beijing Jiaotong University.
 - *2025.03*: &nbsp;🎉 I joined the doctoral program of the Department of Information Management at Peking University.
