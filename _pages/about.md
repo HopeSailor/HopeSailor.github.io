@@ -23,14 +23,10 @@ My research interest includes **information science**, **medical informatics**, 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 The paper submitted to the Information Processing & Management has been accepted.
-- *2025.05*: &nbsp;🎉 The paper submitted to the Journal of Retailing and Consumer Services has been published.
 - *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship, the highest honor at Beijing Jiaotong University.
 - *2025.03*: &nbsp;🎉 I joined the doctoral program of the Department of Information Management at Peking University.
 - *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students.
-- *2024.11*: &nbsp;🎉 The paper submitted to the Decision Support Systems has been published.
-- *2024.05*: &nbsp;🎉 The paper submitted to the Artificial Intelligence in Medicine has been published.
 
 # 📝 Publications 
 
@@ -48,6 +44,19 @@ My research interest includes **information science**, **medical informatics**, 
 *Decision Support Systems*
 
 **Xiaochen Wang**, Runtong Zhang<sup>†</sup>, Xiaomin Zhu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/IPM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Journal Article**
+
+[Scientific collaborator recommendation via hypergraph embedding](https://doi.org/10.1016/j.ipm.2025.104423)
+
+*Information Processing & Management*
+
+**Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>
 </div>
 </div>
 
