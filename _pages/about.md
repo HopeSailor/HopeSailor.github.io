@@ -72,10 +72,8 @@ My research interest includes **information science**, **medical informatics**, 
 </div>
 </div>
 
+## 🔹 
 - Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>†</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
-
-</div>
-</div>
 
 ## 🔹 Working Papers
 - **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>†</sup>. Cross-cultural narratives. *Journal of International Business Studies*.
