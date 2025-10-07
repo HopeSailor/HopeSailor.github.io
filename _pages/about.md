@@ -76,9 +76,8 @@ My research interest includes **information science**, **medical informatics**, 
 
 ## 🔹 Working Papers
 - **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>†</sup>. Cross-cultural narratives. *Journal of International Business Studies*.
-- Wensheng Huang, Runtong Zhang<sup>†</sup>, **Xiaochen Wang**, Qianyao Zhang, Xiaomin Zhu. Navigating the cross-platform maze: How platform content and consumer cognition impact consumer purchase intention in live streaming commerce. *Behaviour & Information Technology*, under review.
+- Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>†</sup>. Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase. *Behaviour & Information Technology*, under review.
 - Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, under review.
-- Qianyao Zhang, Runtong Zhang<sup>†</sup>, Weiguang Ma, Wensheng Huang, **Xiaochen Wang**, Yang Liu. Mapping the multimorbidity landscape: Integrating health ecological model and dynamic heterogeneous network analysis. *iScience*, under revision.
 - Butian Zhao<sup>†</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, with editor.
 
 # 🎖 Honors and Awards
