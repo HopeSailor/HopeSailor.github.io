@@ -23,7 +23,7 @@ My research interest includes **information science**, **medical informatics**, 
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship, the highest honor at Beijing Jiaotong University.
+- *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students.
 
