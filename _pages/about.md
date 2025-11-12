@@ -76,6 +76,7 @@ My research interests include **information science**, **medical informatics**, 
 
 ## 🔹 Working Papers
 - **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>†</sup>. Cross-cultural digital narratives. *Tourism Management*, in progress.
+- **Xiaochen Wang**, Shijuan Li, Wensheng Huang, Hongmei Zhao, Runtong Zhang<sup>†</sup>. A data and knowledge dual-driven approach for clinical misdiagnosis prediction and risk feature identification. *Data Analysis and Knowledge Discovery*, under review.
 - Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>†</sup>. Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase. *Behaviour & Information Technology*, under review.
 - Wenchao Deng, Runtong Zhang<sup>†</sup>, **Xiaochen Wang**, Xiaomin Zhu. A bi-objective location-routing model for municipal solid waste with non-real-time data. *Waste Management*, under review.
 - Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, revise.
