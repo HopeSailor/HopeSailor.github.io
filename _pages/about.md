@@ -95,7 +95,7 @@ My research interests include **information science**, **medical informatics**, 
 - *2018.09 - 2022.06*, Bachelor, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
 # 💬 Invited Talks
-- Distinguished Speaker, World Conference on AI, Blockchain, and Cybersecurity, Tokyo, Japan, March 23–25, 2026.
+- Open for Invitations.
 
 # 💻 Internships
 - *Seeking opportunities for academic and industrial internships to apply and expand my expertise in knowledge graphs, hypergraphs, NLP, and LLMs.*
