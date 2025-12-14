@@ -29,7 +29,7 @@ My research interests include **information science**, **medical informatics**, 
 
 # 📝 Publications 
 
-> † indicates corresponding author; ‡ indicates equal contribution.
+> \* indicates corresponding author; † indicates equal contribution.
 
 ## 🔹 Published Papers
 
@@ -42,7 +42,7 @@ My research interests include **information science**, **medical informatics**, 
 
 *Decision Support Systems*
 
-**Xiaochen Wang**, Runtong Zhang<sup>†</sup>, Xiaomin Zhu
+**Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Xiaomin Zhu
 </div>
 </div>
 
@@ -55,7 +55,7 @@ My research interests include **information science**, **medical informatics**, 
 
 *Information Processing & Management*
 
-**Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>†</sup>
+**Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>\*</sup>
 </div>
 </div>
 
@@ -68,22 +68,23 @@ My research interests include **information science**, **medical informatics**, 
 
 *Artificial Inteligence in Medicine*
 
-**Xiaochen Wang**, Runtong Zhang<sup>†</sup>, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
+**Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
 </div>
 
-- Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>†</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
+- Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
 
 ## 🔹 Working Papers
-- **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>†</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, in progress.
-- 李世娟, **王笑辰**, 王雨格, 乔杉<sup>†</sup>. 分级阅读的历史逻辑、本土特质与实践路径. *中国图书馆学报*, 复审. (Shijuan Li, **Xiaochen Wang**, Yuge Wang, Shan Qiao<sup>†</sup>. The historical logic, indigenous characteristics, and practical pathways of leveled reading. *Journal of Library Science in China*, under review.)
-- **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>†</sup>. 融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究. *数据分析与知识发现*, 终审. (**Xiaochen Wang**, Shijuan Li, Wensheng Huang, Hongmei Zhao, Runtong Zhang<sup>†</sup>. Integrating prior knowledge with multi-source heterogeneous data for clinical misdiagnosis risk prediction and feature identification. *Data Analysis and Knowledge Discovery*, decision in process.)
-- Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>†</sup>. Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase. *Behaviour & Information Technology*, decision in process.
-- Wensheng Huang, Runtong Zhang<sup>†</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Information & Management*, with editor.
-- Wenchao Deng, Runtong Zhang<sup>†</sup>, **Xiaochen Wang**, Xiaomin Zhu. A bi-objective location-routing model for municipal solid waste with non-real-time data. *Journal of Cleaner Production*, with editor.
-- Shijie Ning, Xiaomin Zhu<sup>†</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, under review.
-- Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>†</sup>. Beyond the white coat: Heuristics, professionalism, and consumer choice in healthcare through big data and machine learning. *International Journal of Consumer Studies*, under review.
-- Butian Zhao<sup>†</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, under revision.
+- Shijuan Li<sup>†</sup>, **Xiaochen Wang**<sup>†,\*</sup>, Shan Qiao, Yuge Wang, Linrui Zhang, Jiajia Wang, Junhao Zhang. Intergenerationl transmission of reading in rural China. *Nature Human Behaviour*, in progress.
+- **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, in progress.
+- 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. 分级阅读的历史逻辑、本土特质与实践路径. *中国图书馆学报*, 复审. (Shijuan Li, **Xiaochen Wang**, Yuge Wang, Shan Qiao<sup>\*</sup>. The historical logic, indigenous characteristics, and practical pathways of leveled reading. *Journal of Library Science in China*, under review.)
+- **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. 融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究. *数据分析与知识发现*, 终审. (**Xiaochen Wang**, Shijuan Li, Wensheng Huang, Hongmei Zhao, Runtong Zhang<sup>†</sup>. Integrating prior knowledge with multi-source heterogeneous data for clinical misdiagnosis risk prediction and feature identification. *Data Analysis and Knowledge Discovery*, decision in process.)
+- Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>\*</sup>. Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase. *Behaviour & Information Technology*, decision in process.
+- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Information & Management*, with editor.
+- Wenchao Deng, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**, Xiaomin Zhu. A bi-objective location-routing model for municipal solid waste with non-real-time data. *Journal of Cleaner Production*, with editor.
+- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, under review.
+- Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>\*</sup>. Beyond the white coat: Heuristics, professionalism, and consumer choice in healthcare through big data and machine learning. *International Journal of Consumer Studies*, under review.
+- Butian Zhao<sup>\*</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, under revision.
 
 # 🎖 Honors and Awards
 - *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
