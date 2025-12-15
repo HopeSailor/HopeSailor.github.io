@@ -97,4 +97,28 @@ My research interests include **information science**, **medical informatics**, 
 - *2018.09 - 2022.06*, Bachelor, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
 # 🚀 Projects
-- *Seeking opportunities for academic and industrial internships to apply and expand my expertise in knowledge graphs, hypergraphs, NLP, and LLMs.*
+
+**Intergenerational Transmission of Reading in Rural China**
+<br>
+*Member* | *General Program of National Social Science Foundation of China* | *Jun. 2025 - Present*
+- Advisor: Pfor. Shijuan Li
+- Research: Investigating the micro-mechanisms of reading habit transmission in rural families using a mixed-method approach of Video Ethnography and Randomized Controlled Trials (RCT). Exploring how behavioral scaffolding compensates for cultural capital deficits in intergenerational care and assessing the effectiveness of no-phone interventions against digital interference.
+
+**Clinical misdiagnosis research and judgement techniques driven by healthcare big data**
+<br>
+*Student Director* | *General Program of National Natural Science Foundation of China* | *Sept. 2022 - Jun. 2025*
+- Advisor: Prof. Runtong Zhang
+- Research: Developed a novel link prediction method using information fusion, achieving SOTA performance in completing the misdiagnosis knowledge graph. Applied a hybrid machine learning approach to multimodal patient data, reducing the misdiagnosis rate by 14% in a pilot hospital.
+- Development: Led a team to design and deploy an automated diagnostic error identification system processing 10TB of medical data. Improved rule mining efficiency by 15% through a robust system architecture using Spring Boot, Vue.js, Redis, and MySQL.
+
+**Hierarchical medical system under the sharing economy**
+<br>
+*Member* | *Major Program of National Social Science Foundation of China* | *Mar. 2023 - Mar. 2024*
+- Advisor: Prof. Runtong Zhang
+- Research: Applied dynamic network techniques to optimize hierarchical medical treatment for acute and chronic diseases, improving treatment coordination. Developed a multimorbidity risk model integrating complex networks and cross-domain knowledge, creating a new index that boosts mortality prediction accuracy by 13%.
+
+**Beijing public health emergency management system under digital transformation**
+<br>
+*Member* | *Major Program of Beijing Social Science Foundation of China* | *Dec. 2023 - Jun. 2025*
+- Advisor: Prof. Runtong Zhang
+- Research: Proposed three strategic policy recommendations to improve Beijing’s public health emergency management. Contributed a weekly *Beijing Daily* column, shaping public discourse and policy on health emergencies.
