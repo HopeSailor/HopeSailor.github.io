@@ -96,8 +96,5 @@ My research interests include **information science**, **medical informatics**, 
 - *2022.09 - 2025.06*, Master, Department of Information Management, Beijing Jiaotong University.
 - *2018.09 - 2022.06*, Bachelor, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
-# 💬 Invited Talks
-- Open for Invitations.
-
-# 💻 Internships
+# 🚀 Projects
 - *Seeking opportunities for academic and industrial internships to apply and expand my expertise in knowledge graphs, hypergraphs, NLP, and LLMs.*
