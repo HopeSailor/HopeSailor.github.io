@@ -101,8 +101,8 @@ My research interests include **information science**, **medical informatics**, 
 **Intergenerational Transmission of Reading in Rural China**
 <br>
 *Member* | *General Program of National Social Science Foundation of China* | *Jun. 2025 - Present*
-- Advisor: Pfor. Shijuan Li
-- Research: Investigating the micro-mechanisms of reading habit transmission in rural families using a mixed-method approach of Video Ethnography and Randomized Controlled Trials (RCT). Exploring how behavioral scaffolding compensates for cultural capital deficits in intergenerational care and assessing the effectiveness of no-phone interventions against digital interference.
+- Advisor: Prof. Shijuan Li
+- Research: Investigating the micro-mechanisms of reading habit transmission in rural families using a mixed-method approach of Video Ethnography and Randomized Controlled Trials. Exploring how behavioral scaffolding compensates for cultural capital deficits in intergenerational care and assessing the effectiveness of no-phone interventions against digital interference.
 
 **Clinical misdiagnosis research and judgement techniques driven by healthcare big data**
 <br>
@@ -116,9 +116,3 @@ My research interests include **information science**, **medical informatics**, 
 *Member* | *Major Program of National Social Science Foundation of China* | *Mar. 2023 - Mar. 2024*
 - Advisor: Prof. Runtong Zhang
 - Research: Applied dynamic network techniques to optimize hierarchical medical treatment for acute and chronic diseases, improving treatment coordination. Developed a multimorbidity risk model integrating complex networks and cross-domain knowledge, creating a new index that boosts mortality prediction accuracy by 13%.
-
-**Beijing public health emergency management system under digital transformation**
-<br>
-*Member* | *Major Program of Beijing Social Science Foundation of China* | *Dec. 2023 - Jun. 2025*
-- Advisor: Prof. Runtong Zhang
-- Research: Proposed three strategic policy recommendations to improve Beijing’s public health emergency management. Contributed a weekly *Beijing Daily* column, shaping public discourse and policy on health emergencies.
