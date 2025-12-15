@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a **Ph.D. student** in the **Department of Information Management, Peking University**, under the supervision of [**Professor Shijuan Li (李世娟)**](http://www.im.pku.edu.cn/szll/tsgxjys/zrlsj/index.htm). I obtained my **Master’s degree** from the **Department of Information Management, Beijing Jiaotong University**, advised by [**Professor Runtong Zhang (张润彤)**](http://sem.bjtu.edu.cn/show-594-47.html). Prior to that, I completed my **Bachelor’s degree** through a joint program between **Rochester Institute of Technology** and **Beijing Jiaotong University**.
 
-My research interests include **information science**, **medical informatics**, **human-centered recommendation**, and **digital narratives**. My work has been published <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-40%20citations-9cf?logo=Google%20Scholar"></a> in top journals such as *Decision Support Systems*, *Information Processing & Management*, and *Artificial Intelligence in Medicine*. I also served as a peer reviewer for journals like *Artificial Intelligence Review*, *Expert Systems with Applications* , and *Journal of Big Data*.
+My research interests include **information science**, **medical informatics**, **human-centered recommendation**, and **digital narratives**. My work has been published <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar"></a> in top journals such as *Decision Support Systems*, *Information Processing & Management*, and *Artificial Intelligence in Medicine*. I also served as a peer reviewer for journals like *Artificial Intelligence Review*, *Expert Systems with Applications* , and *Journal of Big Data*.
 
 
 # 🔥 News
@@ -27,7 +27,7 @@ My research interests include **information science**, **medical informatics**, 
 - *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students.
 
-# 📝 Publications 
+# 📝 Publications
 
 > \* indicates corresponding author; † indicates equal contribution.
 
