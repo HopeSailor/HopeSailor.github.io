@@ -4,90 +4,29 @@ on:
   workflow_dispatch:
   page_build:
   schedule:
-    # Avoid UTC midnight traffic; adjust as you like
-    - cron: "23 3 * * *"
-
-permissions:
-  contents: write
-
-concurrency:
-  group: citation-data
-  cancel-in-progress: false
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
-
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-          cache: "pip"
-          cache-dependency-path: google_scholar_crawler/requirements.txt
+      - uses: actions/checkout@v2
 
       - name: Install Reqs
         run: |
-          set -euxo pipefail
-          python -m pip install --upgrade pip
-          cd ./google_scholar_crawler
-          pip install -r requirements.txt
+          sudo apt-get install python3-setuptools
 
-      - name: Run crawler (attempt 1)
+      - name: Run
+        run: |
+          cd ./google_scholar_crawler
+          pip3 install -r requirements.txt
+          python3 main.py
+          cd ./results
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git add *.json
+          git commit -m "Updated Citation Data"
+          git push "${remote_repo}" HEAD:google-scholar-stats --force
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-          PYTHONUNBUFFERED: "1"
-        run: |
-          set -euxo pipefail
-          # Random jitter to reduce rate-limit/captcha collisions
-          sleep $((RANDOM % 600))
-          cd ./google_scholar_crawler
-          echo "=== start main.py (attempt 1) ==="
-          timeout 10m python -u main.py
-          echo "=== main.py done (attempt 1) ==="
-
-      - name: Run crawler (attempt 2 if needed)
-        if: failure()
-        env:
-          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-          PYTHONUNBUFFERED: "1"
-        run: |
-          set -euxo pipefail
-          cd ./google_scholar_crawler
-          echo "=== retry main.py (attempt 2) ==="
-          sleep 120
-          timeout 10m python -u main.py
-          echo "=== main.py done (attempt 2) ==="
-
-      - name: Commit and push results to google-scholar-stats
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -euxo pipefail
-
-          # Expect results under crawler/results (adjust if your project differs)
-          cd ./google_scholar_crawler/results
-
-          # Basic sanity checks: ensure we have at least one non-empty json
-          ls -lah
-          test -n "$(ls -1 *.json 2>/dev/null)"
-          for f in *.json; do test -s "$f"; done
-
-          # Commit on a dedicated branch and force-update it
-          cd ../..
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-
-          git checkout -B google-scholar-stats
-          mkdir -p results
-          rm -f results/*.json
-          cp -f google_scholar_crawler/results/*.json results/
-
-          git add results/*.json
-          git commit -m "Updated Citation Data" || echo "No changes to commit"
-          git push origin google-scholar-stats --force
