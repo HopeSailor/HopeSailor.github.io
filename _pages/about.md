@@ -83,7 +83,7 @@ My research interests include **information science**, **medical informatics**, 
 - Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Information & Management*, with editor.
 - Wenchao Deng, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**, Xiaomin Zhu. A bi-objective location-routing model for municipal solid waste with non-real-time data. *Journal of Cleaner Production*, with editor.
 - Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, under review.
-- Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>\*</sup>. Beyond the white coat: Heuristics, professionalism, and consumer choice in healthcare through big data and machine learning. *International Journal of Consumer Studies*, under review.
+- Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>\*</sup>. Beyond the white coat: Heuristics, professionalism, and consumer choice in healthcare through big data and machine learning. *Journal of Consumer Behaviour*, with editor.
 - Butian Zhao<sup>\*</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, under revision.
 
 # 🎖 Honors and Awards
