@@ -72,8 +72,8 @@ My research interests include **information science**, **medical informatics**, 
 </div>
 </div>
 
-- Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
 - **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. 融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究. *数据分析与知识发现*, forthcoming. (**Xiaochen Wang**, Shijuan Li, Wensheng Huang, Hongmei Zhao, Runtong Zhang<sup>\*</sup>. Integrating prior knowledge with multi-source heterogeneous data for clinical misdiagnosis risk prediction and feature identification. *Data Analysis and Knowledge Discovery*, forthcoming.) 
+- Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
 
 ## 🔹 Working Papers
 - **Xiaochen Wang**, Shijuan Li<sup>\*</sup>, Shan Qiao, Yuge Wang. Intergenerationl transmission of reading in rural China. *Journal of the Association for Information Science and Technology*, in progress.
