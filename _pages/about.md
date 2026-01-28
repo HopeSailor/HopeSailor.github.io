@@ -23,6 +23,9 @@ My research interests include **information science**, **medical informatics**, 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 I facilitated the establishment of the National Reading Practice Base (全民阅读实践基地) by the Peking University Institute of Publishing (北京大学出版研究院) in my hometown, Quyang County.
+  <br>
+  <img src="images/quyang_signing.jpg" alt="Quyang Reading Base Establishment" width="600" style="border-radius: 8px; margin-top: 12px; margin-bottom: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);">
 - *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the National Scholarship for Postgraduate Students.
