@@ -73,6 +73,7 @@ My research interests include **information science**, **medical informatics**, 
 </div>
 
 - Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
+- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, forthcoming.
 - **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. [融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究](https://doi.org/10.11925/infotech.2096-3467.2025.0749). *数据分析与知识发现*, 待刊印.
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. 分级阅读的历史逻辑、本土特质与实践路径. *中国图书馆学报*, 待刊印.
 
@@ -83,7 +84,6 @@ My research interests include **information science**, **medical informatics**, 
 - Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. The AI wall effect: How AI-gated service entry points drive consumer resistance and human seekings. *Journal of Service Research*, under review.
 - Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Information & Management*, with editor.
 - Wenchao Deng, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**, Xiaomin Zhu. A bi-objective location-routing model for municipal solid waste with non-real-time data. *Journal of Cleaner Production*, with editor.
-- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, under review.
 - Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>\*</sup>. Click or commit? The Dynamic Role of Heuristic and Systematic Cues in Online Healthcare Decisions. *International Journal of Information Management*, under review.
 - Butian Zhao<sup>\*</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, under revision.
 
