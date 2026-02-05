@@ -74,7 +74,7 @@ My research interests include **information science**, **medical informatics**, 
 </div>
 
 - Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
-- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments. *Measurement Science and Technology*, forthcoming.
+- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. [Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments](https://doi.org/10.1088/1361-6501/ae41d6). *Measurement Science and Technology*, forthcoming.
 - **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. [融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究](https://link.cnki.net/urlid/10.1478.g2.20260113.1308.002). *数据分析与知识发现*, 待刊印.
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/urlid/11.2746.G2.20260123.0942.002). *中国图书馆学报*, 待刊印.
 
