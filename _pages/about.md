@@ -79,7 +79,7 @@ My research interests include **information science**, **medical informatics**, 
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/urlid/11.2746.G2.20260123.0942.002). *中国图书馆学报*, 待刊印.
 
 ## 🔹 Working Papers
-- **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>\*</sup>. Intergenerational transmission of reading practices in China. *Journal of the Association for Information Systems*, in progress.
+- **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>\*</sup>. Intergenerational transmission of reading practices in China. *Journal of the Association for Information Science and Technology*, in progress.
 - **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, under review.
 - Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>\*</sup>. Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase. *Behaviour & Information Technology*, decision in process.
 - Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. The AI wall effect: How AI-gated service entry points drive consumer resistance and human seekings. *Journal of Service Research*, under review.
