@@ -74,19 +74,19 @@ My research interests include **information science**, **medical informatics**, 
 </div>
 
 - Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
-- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. [Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments](https://doi.org/10.1088/1361-6501/ae41d6). *Measurement Science and Technology*, 2026, 37(6): 066107.
 - Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>\*</sup>. Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase. *Behaviour & Information Technology*, forthcoming.
+- Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. [Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments](https://doi.org/10.1088/1361-6501/ae41d6). *Measurement Science and Technology*, 2026, 37(6): 066107.
 - **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. [融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究](https://link.cnki.net/urlid/10.1478.g2.20260113.1308.002). *数据分析与知识发现*, 待刊印.
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/urlid/11.2746.G2.20260123.0942.002). *中国图书馆学报*, 待刊印.
 
 ## 🔹 Working Papers
 - **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>\*</sup>. Intergenerational transmission of reading practices in China. *Journal of the Association for Information Science and Technology*, in progress.
-- **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, under review.
+- **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, required reviews completed.
 - Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. The AI wall effect: How AI-gated service entry points drive consumer resistance and human seekings. *Journal of Service Research*, under review.
 - Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Information & Management*, under review.
 - Wenchao Deng, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**, Xiaomin Zhu. A bi-objective location-routing model for municipal solid waste with non-real-time data. *Journal of Cleaner Production*, with editor.
 - Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>\*</sup>. Click or commit? The Dynamic Role of Heuristic and Systematic Cues in Online Healthcare Decisions. *International Journal of Consumer Studies*, with editor.
-- Butian Zhao<sup>\*</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, under review.
+- Butian Zhao<sup>\*</sup>, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, under revision.
 
 # 🎖 Honors and Awards
 - *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
