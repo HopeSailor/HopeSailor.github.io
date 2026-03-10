@@ -41,7 +41,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [What can we learn from multimorbidity? A deep dive from its risk patterns to the corresponding patient profiles](https://doi.org/10.1016/j.dss.2024.114313)
 
-*Decision Support Systems*
+*Decision Support Systems*, 2024(186): 114313
 
 **Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Xiaomin Zhu
 </div>
@@ -54,7 +54,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [Scientific collaborator recommendation via hypergraph embedding](https://doi.org/10.1016/j.ipm.2025.104423)
 
-*Information Processing & Management*
+*Information Processing & Management*, 2026, 63(2): 104423
 
 **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>\*</sup>
 </div>
@@ -67,7 +67,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [Medical knowledge graph completion via fusion of entity description and type information](https://doi.org/10.1016/j.artmed.2024.102848)
 
-*Artificial Inteligence in Medicine*
+*Artificial Inteligence in Medicine*, 2024(151): 102848
 
 **Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
