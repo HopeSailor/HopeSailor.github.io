@@ -41,7 +41,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [What can we learn from multimorbidity? A deep dive from its risk patterns to the corresponding patient profiles](https://doi.org/10.1016/j.dss.2024.114313)
 
-*Decision Support Systems*, 2024(186): 114313
+*Decision Support Systems*
 
 **Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Xiaomin Zhu
 </div>
@@ -54,7 +54,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [Scientific collaborator recommendation via hypergraph embedding](https://doi.org/10.1016/j.ipm.2025.104423)
 
-*Information Processing & Management*, 2026, 63(2): 104423
+*Information Processing & Management*
 
 **Xiaochen Wang**, Wensheng Huang, Butian Zhao, Shijuan Li<sup>\*</sup>
 </div>
@@ -67,7 +67,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [Medical knowledge graph completion via fusion of entity description and type information](https://doi.org/10.1016/j.artmed.2024.102848)
 
-*Artificial Inteligence in Medicine*, 2024(151): 102848
+*Artificial Inteligence in Medicine*
 
 **Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
@@ -76,7 +76,7 @@ My research interests include **information science**, **medical informatics**, 
 - Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
 - Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>\*</sup>. [Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase](https://doi.org/10.1080/0144929X.2026.2641597). *Behaviour & Information Technology*, 2026: 1-16.
 - Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. [Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments](https://doi.org/10.1088/1361-6501/ae41d6). *Measurement Science and Technology*, 2026, 37(6): 066107.
--  Butian Zhao, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo<sup>\*</sup>. A phased hybrid approach for recommending doctors in online health communities via coordination of deep learning and reinforcement learning. *Decision Support Systems*, forthcoming.
+-  Butian Zhao, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo<sup>\*</sup>. [A novel approach for recommending doctors in online health communities based on the coordination of deep learning and reinforcement learning](https://doi.org/10.1016/j.dss.2026.114656). *Decision Support Systems*, in press.
 - **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. [融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究](https://link.cnki.net/urlid/10.1478.g2.20260113.1308.002). *数据分析与知识发现*, 待刊印.
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/doi/10.13530/j.cnki.jlis.2026004). *中国图书馆学报*, 2026, 52(1): 57-78.
 
