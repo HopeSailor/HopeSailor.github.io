@@ -1,4 +1,4 @@
----
+<img width="2354" height="262" alt="image" src="https://github.com/user-attachments/assets/a4878a83-3da1-4f23-b5fc-c33ffe8e7127" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -81,10 +81,11 @@ My research interests include **information science**, **medical informatics**, 
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/doi/10.13530/j.cnki.jlis.2026004). *中国图书馆学报*, 2026, 52(1): 57-78.
 
 ## 🔹 Working Papers
-- **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, under revision.
+- **Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>. Performative narratives and destination image in cross-cultural tourism livestreaming. *Tourism Management*, under review.
 - **Xiaochen Wang**, Wensheng Huang, Shijuan Li<sup>\*</sup>. Intergenerational transmission of reading practices in China. *Journal of the Association for Information Science and Technology*, in progress.
-- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. The AI wall effect: How AI-gated service entry points drive consumer resistance and human seekings. *Journal of Service Research*, under review.
-- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Information & Management*, required reviews completed.
+- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. The AI wall effect: How AI-gated service entry points drive consumer resistance and human seekings. *Journal of Service Research*, under revision.
+- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. Beyond the screen: How multimodal stimuli and social sensemaking jointly drive user engagement in short-form videos. *Decision Support Systems*, under review.
+- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**. When reviews falter, reality speaks: Reality-anchored signals and consumer decision making. *Tourism Review*, decision in process.
 - Wensheng Huang, Catherine Prentice, Pei Wu, **Xiaochen Wang**, Qiaoyao Zhang, Runtong Zhang<sup>\*</sup>. Click or commit? The dynamic role of heuristic and systematic cues in online healthcare decisions. *International Journal of Consumer Studies*, under review.
 
 # 🎖 Honors and Awards
