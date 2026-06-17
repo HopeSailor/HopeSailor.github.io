@@ -67,7 +67,7 @@ My research interests include **information science**, **medical informatics**, 
 
 [Medical knowledge graph completion via fusion of entity description and type information](https://doi.org/10.1016/j.artmed.2024.102848)
 
-*Artificial Inteligence in Medicine*
+*Artificial Intelligence in Medicine*
 
 **Xiaochen Wang**, Runtong Zhang<sup>\*</sup>, Butian Zhao, Yuhan Yao, Hongmei Zhao, Xiaomin Zhu
 </div>
