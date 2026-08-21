@@ -34,6 +34,19 @@ My research interests include **information science**, **medical informatics**, 
 
 ## 🔹 Published Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TM</div><img src='images/tm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Journal Article**
+
+[Performative narratives and destination image in cross-cultural tourism livestreaming](https://doi.org/10.1016/j.tourman.2026.105516)
+
+*Tourism Management*
+
+**Xiaochen Wang**, Wensheng Huang, Xinpeng Qiu, Shijuan Li<sup>\*</sup>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSS</div><img src='images/DSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,12 +95,8 @@ My research interests include **information science**, **medical informatics**, 
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/doi/10.13530/j.cnki.jlis.2026004). *中国图书馆学报*, 2026, 52(1): 57-78.
 
 ## 🔹 Working Papers
-- Cross-cultural digital tourism communication and destination perception.
+- Cross-level generalization in digital narratives.
 - Family reading environments and intergenerational information practices in China.
-- AI-mediated service interfaces and consumer responses.
-- Multimodal content features and user engagement in short-form video platforms.
-- Reality-based information cues and consumer decision making.
-- Heuristic and systematic cues in online healthcare decision making.
 
 # 🎖 Honors and Awards
 - *2025.05* Zhixing Scholarship (¥10,000, ~**Top 5** at BJTU)
