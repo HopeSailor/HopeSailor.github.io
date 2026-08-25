@@ -19,10 +19,11 @@ redirect_from:
 
 I am currently a **Ph.D. student** in the **Department of Information Management, Peking University**, under the supervision of [**Professor Shijuan Li (李世娟)**](http://www.im.pku.edu.cn/szll/tsgxjys/zrlsj/index.htm). I obtained my **Master’s degree** from the **Department of Information Management, Beijing Jiaotong University**, advised by [**Professor Runtong Zhang (张润彤)**](http://sem.bjtu.edu.cn/show-594-47.html). Prior to that, I completed my **Bachelor’s degree** through a joint program between **Rochester Institute of Technology** and **Beijing Jiaotong University**.
 
-My research interests include **digital narratives**, **information science**, **medical informatics**, and **reading promotion**. My work <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar"></a> has been published in top journals such as *Tourism Management*, *Decision Support Systems*, and *Information Processing & Management*. I also served as a peer reviewer for journals like *npj Digital Medicine*, *Artificial Intelligence Review*, *Expert Systems with Applications* , and *Journal of Big Data*.
+My research interests include **digital narratives**, **information science**, **medical informatics**, and **reading promotion**. My work <a href='https://scholar.google.com/citations?user=wtcf_r4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar"></a> has been published in leading journals such as *Tourism Management*, *Decision Support Systems*, and *Information Processing & Management*. I have also served as a peer reviewer for journals including *npj Digital Medicine*, *Artificial Intelligence Review*, *Expert Systems with Applications*, and *Journal of Big Data*.
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 Our papers were accepted by *Tourism Management*, *Findings of EMNLP 2026*, and *IP&MC 2026* (oral presentation).
 - *2026.01*: &nbsp;🎉 I facilitated the establishment of the National Reading Practice Base in Quyang County.
 - *2025.05*: &nbsp;🎉 I was awarded the Zhixing Scholarship.
 - *2024.12*: &nbsp;🎉 I was awarded the Xu Shoubo Academician Scholarship.
@@ -32,12 +33,10 @@ My research interests include **digital narratives**, **information science**, *
 
 > \* indicates corresponding author; † indicates equal contribution.
 
-## 🔹 Published Papers
+## 🔹 Journal Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TM</div><img src='images/tm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Journal Article**
 
 [Performative narratives and destination image in cross-cultural tourism livestreaming](https://doi.org/10.1016/j.tourman.2026.105516)
 
@@ -50,8 +49,6 @@ My research interests include **digital narratives**, **information science**, *
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DSS</div><img src='images/DSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Journal Article**
-
 [What can we learn from multimorbidity? A deep dive from its risk patterns to the corresponding patient profiles](https://doi.org/10.1016/j.dss.2024.114313)
 
 *Decision Support Systems*
@@ -62,8 +59,6 @@ My research interests include **digital narratives**, **information science**, *
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/IPM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Journal Article**
 
 [Scientific collaborator recommendation via hypergraph embedding](https://doi.org/10.1016/j.ipm.2025.104423)
 
@@ -76,8 +71,6 @@ My research interests include **digital narratives**, **information science**, *
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIIM</div><img src='images/AIIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Journal Article**
-
 [Medical knowledge graph completion via fusion of entity description and type information](https://doi.org/10.1016/j.artmed.2024.102848)
 
 *Artificial Intelligence in Medicine*
@@ -86,13 +79,18 @@ My research interests include **digital narratives**, **information science**, *
 </div>
 </div>
 
-- Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025(84): 104199.
+- Wensheng Huang, **Xiaochen Wang**, Qianyao Zhang, Junhui Han, Runtong Zhang<sup>\*</sup>. [Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms](https://doi.org/10.1016/j.jretconser.2024.104199). *Journal of Retailing and Consumer Services*, 2025, 84: 104199.
 - Wensheng Huang, **Xiaochen Wang**, Catherine Prentice, Qianyao Zhang, Xiaomin Zhu, Runtong Zhang<sup>\*</sup>. [Caught between data and drama: Exploring symmetrical and asymmetrical effects of information and emotion on e-commerce purchase](https://doi.org/10.1080/0144929X.2026.2641597). *Behaviour & Information Technology*, 2026: 1-16.
-- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**, Butian Zhao. [Beyond reviews: Operating-environment cues and consumer decision making on digital service platforms](https://doi.org/10.1016/j.jretconser.2026.105010). *Journal of Retailing and Consumer Services*, 2027(94): 105010.
+- Wensheng Huang, Runtong Zhang<sup>\*</sup>, **Xiaochen Wang**, Butian Zhao. [Beyond reviews: Operating-environment cues and consumer decision making on digital service platforms](https://doi.org/10.1016/j.jretconser.2026.105010). *Journal of Retailing and Consumer Services*, 2027, 94: 105010.
 - Shijie Ning, Xiaomin Zhu<sup>\*</sup>, Zhizheng Sun, **Xiaochen Wang**, Runtong Zhang. [Multiscale dilated attention convolutional neural network for remaining useful life prediction of rolling bearings in noisy environments](https://doi.org/10.1088/1361-6501/ae41d6). *Measurement Science and Technology*, 2026, 37(6): 066107.
--  Butian Zhao, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo<sup>\*</sup>. [A novel approach for recommending doctors in online health communities based on the coordination of deep learning and reinforcement learning](https://doi.org/10.1016/j.dss.2026.114656). *Decision Support Systems*, 2026(205): 114656.
-- **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. [融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究](https://link.cnki.net/urlid/10.1478.g2.20260113.1308.002). *数据分析与知识发现*, 待刊印.
+-  Butian Zhao, Xuehao Zhang, Minyu Chen, Ruojia Wang, Tian Tian, Zhanfeng Yan, **Xiaochen Wang**, Fengying Guo<sup>\*</sup>. [A novel approach for recommending doctors in online health communities based on the coordination of deep learning and reinforcement learning](https://doi.org/10.1016/j.dss.2026.114656). *Decision Support Systems*, 2026, 205: 114656.
+- **王笑辰**, 李世娟, 黄文胜, 赵红梅, 张润彤<sup>\*</sup>. [融合先验知识与多源异构数据的临床误诊风险预测与特征识别研究](https://link.cnki.net/urlid/10.1478.g2.20260113.1308.002). *数据分析与知识发现*, **待刊印**.
 - 李世娟, **王笑辰**, 王雨格, 乔杉<sup>\*</sup>. [分级阅读的历史逻辑、本土特质与实践路径](https://link.cnki.net/doi/10.13530/j.cnki.jlis.2026004). *中国图书馆学报*, 2026, 52(1): 57-78.
+
+## 🔹 Conference Papers & Presentations
+- **Xiaochen Wang**, Wensheng Huang, Shijuan Li. Visible reading, unequal returns: Caregiver reading practice and child outcomes in Chinese households. *Information Processing & Management Conference 2026 (IP&MC 2026)*, 2026. **Oral Presentation**.
+- Xinpeng Qiu, Yihu Wang, Zhifeng Liu, **Xiaochen Wang**, Jimin Wang. [EGTR-Review: Efficient Evidence-Grounded Scientific Peer Review Generation via Multi-Agent Teacher Distillation](https://openreview.net/forum?id=DSZRLQ8Czm). *Findings of the Association for Computational Linguistics: EMNLP 2026*, **forthcoming**.
+
 
 ## 🔹 Working Papers
 - Cross-level generalization in digital narratives.
@@ -103,10 +101,10 @@ My research interests include **digital narratives**, **information science**, *
 - *2024.12* Xu Shoubo Academician Scholarship (¥25,000, ~**Top 1** in the SEM, BJTU)
 - *2024.12* National Scholarship for Postgraduate Students (¥20,000, ~**Top 2%** in the SEM, BJTU)
 
-# 📖 Educations
+# 📖 Education
 - *2025.09 - present*, Ph.D. Student, Department of Information Management, Peking University.
-- *2022.09 - 2025.06*, Master, Department of Information Management, Beijing Jiaotong University.
-- *2018.09 - 2022.06*, Bachelor, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
+- *2022.09 - 2025.06*, Master's Degree, Department of Information Management, Beijing Jiaotong University.
+- *2018.09 - 2022.06*, Bachelor's Degree, School of Economics and Management, Rochester Institute of Technology & Beijing Jiaotong University.
 
 # 🚀 Projects
 
