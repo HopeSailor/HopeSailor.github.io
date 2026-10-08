@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaochen Wang"
-description              : "Ph.D. student"
+description              : "Xiaochen Wang — Peking University researcher in information science, graph learning, and medical informatics"
 repository               : "HopeSailor/HopeSailor.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "HopeSailor"
   google_plus      :
   keybase          :
   instagram        :
