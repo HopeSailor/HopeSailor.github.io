@@ -1,72 +1,35 @@
+# Xiaochen Wang — Academic Homepage
 
-<h1 align="center">
-AcadHomepage
-</h1>
+Source code for [my academic homepage](https://hopesailor.github.io/), which presents my research interests, publications, academic background, and selected projects.
 
-<div align="center">
+**Maintained by:** [Xiaochen Wang](https://github.com/HopeSailor)  
+**Built with:** Jekyll and GitHub Pages  
+**Upstream template:** [RayeRen/AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
+> This website is customized from the AcadHomepage template. The underlying template is **not** my original creation. The repository retains the upstream license and attribution.
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+## Site content
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+- [Academic homepage](https://hopesailor.github.io/) — profile, research news, and publications
+- [`_pages/about.md`](_pages/about.md) — homepage content
+- [`_config.yml`](_config.yml) — site metadata, author information, and Jekyll settings
+- [`images/`](images/) — website images
+- [`assets/`](assets/) — theme assets
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+## Run locally
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+1. Install a Ruby/Jekyll development environment compatible with the repository's `Gemfile` and `Gemfile.lock`.
+2. From the repository root, install dependencies and start Jekyll:
 
-## Quick Start
+   ```bash
+   bundle install
+   bundle exec jekyll serve
+   ```
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Actions` tab of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This GitHub Action generates the Google Scholar citation data file `gs_data.json` in the `google-scholar-stats` branch of your REPO. It runs when the `main` branch is updated and every day at 00:00 UTC (08:00 Beijing time).
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+3. Open `http://localhost:4000`. You can edit `_pages/about.md` and `_config.yml` to update the site. Restart Jekyll after changing `_config.yml`.
 
-## Debug Locally
+Deployment is handled through GitHub Pages; the public URL is [hopesailor.github.io](https://hopesailor.github.io/).
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+## Credits and license
 
-# Acknowledges
-
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+This site is based on [AcadHomepage by RayeRen](https://github.com/RayeRen/acad-homepage.github.io), which itself builds on the open-source Jekyll academic-homepage ecosystem. Please refer to the repository [LICENSE](LICENSE) and the upstream project for the applicable notices and credits. Site-specific biography, publications, and images belong to their respective owners.
