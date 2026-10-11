@@ -7,7 +7,7 @@
     "counts"
   ],
   "scholar_id": "wtcf_r4AAAAJ",
-  "source": "AUTHOR_PROFILE_PAGE",
+  "source": "SERPAPI_GOOGLE_SCHOLAR_AUTHOR",
   "name": "Xiaochen Wang 王笑辰",
   "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=wtcf_r4AAAAJ&citpid=15",
   "affiliation": "Department of Information Management, Peking University",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "wtcf_r4AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 74,
+      "num_citations": 82,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7821120887167205008",
       "cites_id": [
         "7821120887167205008"
@@ -91,7 +91,7 @@
       },
       "filled": false,
       "author_pub_id": "wtcf_r4AAAAJ:2osOgNQ5qMEC",
-      "num_citations": 2,
+      "num_citations": 3,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11197964859487351675",
       "cites_id": [
         "11197964859487351675"
@@ -143,18 +143,18 @@
       },
       "filled": false,
       "author_pub_id": "wtcf_r4AAAAJ:qjMakFHDy7sC",
-      "num_citations": 0
+      "num_citations": 1
     }
   },
-  "citedby5y": 119,
+  "citedby5y": 129,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
   "i10index5y": 3,
   "cites_per_year": {
     "2024": 3,
-    "2025": 40,
-    "2026": 74
+    "2025": 39,
+    "2026": 82
   },
-  "updated": "2026-09-19T03:58:58.272650+00:00"
+  "updated": "2026-10-11T03:09:54.597489+00:00"
 }
