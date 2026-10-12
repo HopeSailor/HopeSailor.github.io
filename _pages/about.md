@@ -94,6 +94,7 @@ My research interests include **digital narratives**, **information science**, *
 
 ## 🔹 Working Papers
 - Cross-level generalization in digital narratives.
+- Individual exploration and collective creativity on digital platforms.
 - Family reading environments and intergenerational information practices in China.
 
 # 🎖 Honors and Awards
