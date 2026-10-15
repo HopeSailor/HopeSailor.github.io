@@ -20,7 +20,7 @@
   ],
   "email_domain": "@stu.pku.edu.cn",
   "homepage": "https://hopesailor.github.io/",
-  "citedby": 130,
+  "citedby": 132,
   "publications": {
     "wtcf_r4AAAAJ:d1gkVwhDpl0C": {
       "container_type": "Publication",
@@ -31,7 +31,7 @@
       },
       "filled": false,
       "author_pub_id": "wtcf_r4AAAAJ:d1gkVwhDpl0C",
-      "num_citations": 82,
+      "num_citations": 83,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7821120887167205008",
       "cites_id": [
         "7821120887167205008"
@@ -121,7 +121,7 @@
       },
       "filled": false,
       "author_pub_id": "wtcf_r4AAAAJ:zYLM7Y9cAGgC",
-      "num_citations": 0
+      "num_citations": 1
     },
     "wtcf_r4AAAAJ:IjCSPb-OGe4C": {
       "container_type": "Publication",
@@ -146,7 +146,7 @@
       "num_citations": 2
     }
   },
-  "citedby5y": 130,
+  "citedby5y": 132,
   "hindex": 4,
   "hindex5y": 4,
   "i10index": 3,
@@ -154,7 +154,7 @@
   "cites_per_year": {
     "2024": 3,
     "2025": 39,
-    "2026": 83
+    "2026": 85
   },
-  "updated": "2026-10-14T02:18:55.097892+00:00"
+  "updated": "2026-10-15T01:59:55.136778+00:00"
 }
