@@ -3,7 +3,9 @@ import json
 from pathlib import Path
 import tempfile
 import unittest
-from main import AUTHOR_ID, transform, write_files, read_existing
+from unittest import mock
+import main
+from main import AUTHOR_ID, transform, write_files, read_existing, StaleCitationCountError
 
 def previous():
     return {
@@ -41,8 +43,21 @@ class Tests(unittest.TestCase):
         self.assertEqual(updated["publications"][AUTHOR_ID + ":def"]["num_citations"], 1)
 
     def test_does_not_lower_total(self):
-        with self.assertRaises(ValueError):
+        with self.assertRaises(StaleCitationCountError):
             transform(fixture(127), previous(), AUTHOR_ID)
+
+    def test_stale_api_result_is_a_safe_skip(self):
+        with tempfile.TemporaryDirectory() as folder:
+            directory = Path(folder)
+            initial = json.dumps(previous())
+            (directory / 'gs_data.json').write_text(initial, encoding='utf-8')
+            badge_initial = json.dumps({'schemaVersion': 1, 'label': 'citations', 'message': '129'})
+            (directory / 'gs_data_shieldsio.json').write_text(badge_initial, encoding='utf-8')
+            with mock.patch.object(main, 'fetch_serpapi', return_value=fixture(127)):
+                changed = main.update_from_api(directory, 'dummy-key', AUTHOR_ID)
+            self.assertFalse(changed)
+            self.assertEqual((directory / 'gs_data.json').read_text(), initial)
+            self.assertEqual((directory / 'gs_data_shieldsio.json').read_text(), badge_initial)
 
     def test_rejects_wrong_author(self):
         data = fixture()
