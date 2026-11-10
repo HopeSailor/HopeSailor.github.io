@@ -13,6 +13,11 @@ from urllib.request import urlopen
 AUTHOR_ID = "wtcf_r4AAAAJ"
 
 
+class StaleCitationCountError(ValueError):
+    """The API returned fewer citations than the last verified publication."""
+
+
+
 def read_existing(directory: Path) -> dict:
     path = directory / "gs_data.json"
     if not path.is_file():
@@ -62,7 +67,10 @@ def transform(payload: dict, previous: dict, author_id: str) -> dict:
         raise ValueError("Missing total citations")
     total = int(cited_row["all"])
     if total < 0 or total < int(previous["citedby"]):
-        raise ValueError("Invalid/decreasing citation total; preserving old data")
+        raise StaleCitationCountError(
+            f"SerpApi returned {total} citations, below the last verified count "
+            f"of {previous['citedby']}"
+        )
     if not previous.get("publications"):
         raise ValueError("No existing publications to preserve")
 
@@ -125,6 +133,19 @@ def write_files(directory: Path, result: dict) -> None:
     print(f"Google Scholar citations verified: {previous['citedby']} -> {total}")
 
 
+def update_from_api(directory: Path, key: str, author_id: str) -> bool:
+    old = read_existing(directory)
+    payload = fetch_serpapi(author_id, key)
+    try:
+        updated = transform(payload, old, author_id)
+    except StaleCitationCountError as exc:
+        # A lower third-party count may be stale/partial or a Scholar recalculation.
+        # Preserve last known-good files and report a warning instead of a failed run.
+        print('::warning::' + str(exc) + '; keeping the last verified citation data.')
+        return False
+    write_files(directory, updated)
+    return True
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output-dir", type=Path, required=True)
@@ -135,9 +156,7 @@ def main() -> None:
         parser.error("Configure SERPAPI_API_KEY in GitHub Actions Secrets")
     if author_id != AUTHOR_ID:
         parser.error("Unexpected Google Scholar author ID")
-    old = read_existing(args.output_dir)
-    updated = transform(fetch_serpapi(author_id, key), old, author_id)
-    write_files(args.output_dir, updated)
+    update_from_api(args.output_dir, key, author_id)
 
 
 if __name__ == "__main__":
